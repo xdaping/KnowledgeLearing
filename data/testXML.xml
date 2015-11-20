@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ObjFlow category="reserved">
+  <BaseInfo>
+    <formOid>工单编号</formOid>
+    <taskName>任务名称</taskName>
+    <AdjustReason category="good">
+      <items>
+        <item>
+          <villagename>小区名</villagename>
+          <devicetype>设备类型</devicetype>
+          <parametername>指标或参数名</parametername>
+          <parametervalues>指标或参数值</parametervalues>
+        </item>
+      </items>
+    </AdjustReason>
+  </BaseInfo>
+</ObjFlow>
